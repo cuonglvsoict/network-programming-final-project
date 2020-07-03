@@ -1,2 +1,2 @@
 # network-programming-final-project
-Who want to be a millionaire
+Mimic the game show Who want to be a millionaire.
