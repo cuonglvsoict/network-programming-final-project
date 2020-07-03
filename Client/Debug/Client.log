@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  ui.cpp
+  io.cpp
+  Client.cpp
+  business.cpp
+d:\documents\visual studio 2015\projects\networkprogrammingfinalproject\client\business.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Client.vcxproj -> D:\Documents\Visual Studio 2015\Projects\NetworkProgrammingFinalProject\Debug\Client.exe
+  Client.vcxproj -> D:\Documents\Visual Studio 2015\Projects\NetworkProgrammingFinalProject\Debug\Client.pdb (Full PDB)

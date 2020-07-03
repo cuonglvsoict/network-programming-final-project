@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Server.cpp
+  io.cpp
+d:\documents\visual studio 2015\projects\networkprogrammingfinalproject\server\io.cpp(19): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\documents\visual studio 2015\projects\networkprogrammingfinalproject\server\io.cpp(21): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\documents\visual studio 2015\projects\networkprogrammingfinalproject\server\io.cpp(23): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\documents\visual studio 2015\projects\networkprogrammingfinalproject\server\io.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  business.cpp
+d:\documents\visual studio 2015\projects\networkprogrammingfinalproject\server\business.cpp(17): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio 2015\projects\networkprogrammingfinalproject\server\business.cpp(204): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\documents\visual studio 2015\projects\networkprogrammingfinalproject\server\business.cpp(209): warning C4305: '+=': truncation from 'double' to 'float'
+d:\documents\visual studio 2015\projects\networkprogrammingfinalproject\server\business.cpp(214): warning C4244: '/=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+d:\documents\visual studio 2015\projects\networkprogrammingfinalproject\server\business.cpp(64): warning C4715: 'getPrizeInCorrectCase': not all control paths return a value
+  Server.vcxproj -> D:\Documents\Visual Studio 2015\Projects\NetworkProgrammingFinalProject\Debug\Server.exe
+  Server.vcxproj -> D:\Documents\Visual Studio 2015\Projects\NetworkProgrammingFinalProject\Debug\Server.pdb (Full PDB)
